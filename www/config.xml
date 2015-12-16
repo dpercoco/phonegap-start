@@ -6,7 +6,7 @@
         id        = "com.phonegap.tusktodo"
         version   = "1.0.0">
 
-    <name>Tusk</name>
+    <name>Tusk (Todo)</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
